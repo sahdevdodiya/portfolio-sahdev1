@@ -1,0 +1,63 @@
+// OpenSource.scss
+
+.open-source-section {
+    color: #fff; // Change this to your desired text color
+    background: #171c28; // Change this to your desired background color
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .project-title {
+    font-size: 52px;
+    font-weight: 400;
+    line-height: normal;
+    a {
+      color: #61dafb; // Change this to your desired link color
+    }
+  }
+  
+  .project-description {
+    font-size: 18px;
+    margin-top: 20px;
+    a {
+      color: #61dafb; // Change this to your desired link color
+    }
+  }
+  
+  .frontend-section,
+  .backend-section,
+  .ml-section {
+    margin-top: 40px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .project-card {
+    background: #333; // Change this to your desired project card background color
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    h3 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+    a {
+      color: #61dafb; // Change this to your desired link color
+    }
+  }
+  
+  .additional-note {
+    font-size: 16px;
+    margin-top: 20px;
+    a {
+      color: #61dafb; // Change this to your desired link color
+    }
+  }
+  
